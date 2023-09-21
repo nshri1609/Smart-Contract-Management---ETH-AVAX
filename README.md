@@ -1,7 +1,7 @@
-# This is my project for ETH Proof: Intermediate course module 2 by Metacrafters.
+#  Project for ETH + Avax Proof: Intermediate course module 2 by Metacrafters.
 
-- I have created a simple contract with some functions and then shown the values of those functions in frontend of the application which I got from the starter template provided by the Metacrafters.
-- I have made some modifications in the index.js file of the starter template and added my solidity code.
+- I used the starting template given by the Metacrafters to construct a simple contract with a few functions, and I then displayed the values of those functions in the application's front end.
+- I included my solidity code and made a few changes to the starter template's index.js file.
 
 # Below are the instructions on how to run this project on your computer.
 
