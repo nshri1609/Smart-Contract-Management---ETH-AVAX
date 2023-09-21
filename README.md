@@ -1,4 +1,4 @@
-#  Project for ETH + Avax Proof: Intermediate course module 2 by Metacrafters.
+#  Project for ETH + Avax Proof: Intermediate course (Smart Contract Management)
 
 - I used the starting template given by the Metacrafters to construct a simple contract with a few functions, and I then displayed the values of those functions in the application's front end.
 - I included my solidity code and made a few changes to the starter template's index.js file.
