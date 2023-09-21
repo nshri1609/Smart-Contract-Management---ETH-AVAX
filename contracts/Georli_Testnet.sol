@@ -20,7 +20,7 @@ contract Georli_Testnet {
         return balance;
     }
 
-    function Deposit_Georli(uint256 _amount) public payable {
+    function Deposit(uint256 _amount) public payable {
         uint256 _previousBalance = balance;
 
         // make sure this is the owner
